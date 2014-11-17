@@ -2,6 +2,7 @@ package CleanCode;
 
 public class first {
 
+	/*
 	public static String testtableHtml(PageData pageData, boolean includeSuiteSetup) throws Exception {
 		WikiPage wikipage = pageData.getWikiPage();
 		StringBuffer buffer = new StringBuffer();
@@ -48,4 +49,6 @@ public static String renderPageWithSetupsAndTeardowns(PageData pageData, boolean
 if (isTestPage(pageData))
 	includeSetupAndTeardownPages(pageData, isSuite);
 return pageData.getHtml();
+}
+*/
 }
